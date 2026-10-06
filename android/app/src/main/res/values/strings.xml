@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SDN Pakukerto II</string>
+    <string name="title_activity_main">SDN Pakukerto II</string>
+    <string name="package_name">com.sketsu.everydayimshufflin</string>
+    <string name="custom_url_scheme">com.sketsu.everydayimshufflin</string>
+</resources>
